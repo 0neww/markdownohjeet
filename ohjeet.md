@@ -1,2 +1,3 @@
 # Ohjeet työaseman asennuksen automatisointiin
-_k_
+_Miten päääset asennuksen aikana Audit tilaan_
+* Painat windows asennuskohdassa CTRL + SHIFT + F3
