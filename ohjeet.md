@@ -9,7 +9,7 @@ _Miten Sysprep ohjelmaa käytetään graafisen työkalun ja/tai komentokehotteen
 * Sysrep ohjelmaa käytetään graafisella ohjelmalla lisäämällä sinne xml/image tiedosto jonka jälkeen voi alkaa muokkaamaan components kohdasta
 
 _Kuvaa vastausiedoston luomista yleisellä tasolla. Halutessasi voit kirjata mukaan myös asetukset esim. kuvaruutukaappauksin tai muulla tavalla._
-![Alt text](https://www.virtualizationhowto.com/wp-content/uploads/2019/05/New-Answer-File-created-with-the-various-components-listed-for-customizing.png "a title")
+![Alt text]([https://www.virtualizationhowto.com/wp-content/uploads/2019/05/New-Answer-File-created-with-the-various-components-listed-for-customizing.png](https://mecm365.com/wp-content/uploads/2022/03/m3-windows-sim-2.webp) "a title")
 
 _Miten vastaustiedostoa käyttö yhdessä sysprep ohjelman kanssa (vastaustiedoston sijainti valmisteltavassa työasemassa ja sysprep ohjelman parametrit._
 * Sysrepin parametrit ovat /audit /generalize /oobe /mode:vm /reboot /shutdown /quiet /quit /unattend
